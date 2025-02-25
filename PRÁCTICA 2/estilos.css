@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    border: 2px solid black;
+    height: 300px;
+}
+.elemento1{
+    background-color: blue;
+}
+.elemento2{
+    background-color: green;
+}
+.elemento3{
+    background-color: yellow;
+}
+.elemento4{
+    background-color: red;
+}
+.elemento5{
+    background-color: violet;
+}
+.elemento6{
+    background-color: brown;
+}
+.elemento7{
+    background-color: chocolate;
+}
+.elemento8{
+    background-color: chartreuse;
+}
+.elemento9{
+    background-color: crimson;
+}
